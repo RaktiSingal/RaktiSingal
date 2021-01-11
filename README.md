@@ -19,6 +19,11 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
     <br><br>
+    ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
+ 
+ <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nehasoni05&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasoni05&" alt="nehasoni"  width="400px" height="190px" />
+  </div>
 <h3> Find me around the web 🌎:</h3>
 <center>
 <a href="https://www.linkedin.com/in/rakti-singal" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;

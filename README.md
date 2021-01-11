@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java and C </li>

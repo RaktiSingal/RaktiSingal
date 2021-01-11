@@ -21,7 +21,7 @@
     <br><br>
     ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
  
- <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nehasoni05&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
+ <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaktiSingal&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasoni05&" alt="nehasoni"  width="400px" height="190px" />
   </div>
 <h3> Find me around the web 🌎:</h3>

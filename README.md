@@ -21,7 +21,7 @@
     <br><br>
     
  <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaktiSingal&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
-  <img src="https://www.hackerrank.com/certificates/6366f24dc890">
+  
   </div>
 <h3> Find me around the web 🌎:</h3>
 <center>

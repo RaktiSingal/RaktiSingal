@@ -73,10 +73,3 @@
 
 
   </center>
-  
-<style>
-  td,th
-  {
-  width:400px;
-  }
-</style>

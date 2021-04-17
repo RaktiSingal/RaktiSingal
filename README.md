@@ -20,6 +20,9 @@
     </tr>
     </table>
     </l1>
+  <l1><h3>Education:</h3>
+  
+  </l1>
   </ul>
 <br>
 <br>

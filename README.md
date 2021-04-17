@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td width="400px">BTech CSE</td>
-      <td width="400px" text-align="right">CGPA : 9.49 / 10 </td>
+      <td width="400px" text="right">CGPA : 9.49 / 10 </td>
     </tr>
     </div>
     </table>
@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td width="400px">12 CBSE</td>
-      <td width="400px" text-align="right">Percentage : 79.02 / 100</td>
+      <td width="400px" text="right">Percentage : 79.02 / 100</td>
     </tr>
     </div>
     </table>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td width="400px">10 CBSE</td>
-      <td width="400px" text-align="right">CGPA : 9.00  / 10 </td>
+      <td width="400px" text="right">CGPA : 9.00  / 10 </td>
     </tr>
     </div>
     </table>

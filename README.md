@@ -3,7 +3,8 @@
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java and C </li>
   <li>🔭 I’m currently working on my portfolio.</li>
-  <l1>Skills : <table border="0">
+  <br>
+  <l1> <h4>Skills:</h4> <table border="0">
     <tr>
       <th>C</th>
       <th>C++</th>

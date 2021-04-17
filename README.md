@@ -15,6 +15,7 @@
       <th>SQL</th>
       <th>Data Structures</th>
       <th>DBMS</th>
+      <th>OPPs</th>
       <th>Google Cloud Platform</th>
     </tr>
     </table>

@@ -77,5 +77,6 @@
 <style>
   td,th
   {
-  width:50%;
+  width:400px;
   }
+</style>

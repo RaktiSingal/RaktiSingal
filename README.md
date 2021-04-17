@@ -21,6 +21,7 @@
     </l1>
   <l1><h3>Education:</h3>
   <table>
+    <div>
     <tr>
       <th>Chitkara University</th>
       <td>2018-2022</td>
@@ -29,6 +30,8 @@
       <td>BTech CSE</td>
       <td>CGPA : 9.49 / 10 </td>
     </tr>
+    </div>
+    <div>
     <tr>
       <th>Bhartiya Public School</th>
       <td>2017-2018</td>
@@ -37,6 +40,8 @@
       <td>12 CBSE</td>
       <td>Percentage : 79.02 / 100</td>
     </tr>
+    </div>
+    <div>
     <tr>
       <th>SD Vidya School</th>
       <td>2015-2016</td>
@@ -45,6 +50,7 @@
       <td>10 CBSE</td>
       <td>CGPA : 9.00  / 10 </td>
     </tr>
+    </div>
     </table>
   </l1>
   </ul>

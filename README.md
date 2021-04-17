@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td width="400px">BTech CSE</td>
-      <td width="400px">CGPA : 9.49 / 10 </td>
+      <td width="400px" text-align="right">CGPA : 9.49 / 10 </td>
     </tr>
     </div>
     </table>
@@ -36,12 +36,12 @@
     <table>
     <div>
     <tr>
-      <th>Bhartiya Public School</th>
-      <td>2017-2018</td>
+      <th width="400px">Bhartiya Public School</th>
+      <td width="400px">2017-2018</td>
     </tr>
     <tr>
-      <td>12 CBSE</td>
-      <td>Percentage : 79.02 / 100</td>
+      <td width="400px">12 CBSE</td>
+      <td width="400px" text-align="right">Percentage : 79.02 / 100</td>
     </tr>
     </div>
     </table>
@@ -49,12 +49,12 @@
     <table>
     <div>
     <tr>
-      <th>SD Vidya School</th>
-      <td>2015-2016</td>
+      <th width="400px">SD Vidya School</th>
+      <td width="400px">2015-2016</td>
     </tr>
     <tr>
-      <td>10 CBSE</td>
-      <td>CGPA : 9.00  / 10 </td>
+      <td width="400px">10 CBSE</td>
+      <td width="400px" text-align="right">CGPA : 9.00  / 10 </td>
     </tr>
     </div>
     </table>

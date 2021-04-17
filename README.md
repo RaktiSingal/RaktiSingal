@@ -1,8 +1,7 @@
-### <h3>Welcome to my Github Profile</h3>
+### <h1>Welcome to my Github Profile</h1>
 
 <ul list-style-type="none">
-  <li>💻 Primary coding language: Java and C </li>
-  <li>🔭 I’m currently working on my portfolio.</li>
+  <li>💻I am an extremly hardworking person, always willing to learn new skills to build a professional career.</li>
   <br>
   <l1> <h4>Skills:</h4> <table border="0">
     <tr>
@@ -21,22 +20,35 @@
     </table>
     </l1>
   <l1><h3>Education:</h3>
-  
+  <table>
+    <tr>
+      <th>Chitkara University</th>
+      <td>2018-2022</td>
+    </tr>
+    <tr>
+      <td>BTech CSE</td>
+      <td>CGPA : 9.49 / 10 </td>
+    </tr>
+    <tr>
+      <th>Bhartiya Public School</th>
+      <td>2017-2018</td>
+    </tr>
+    <tr>
+      <td>12 CBSE</td>
+      <td>Percentage : 79.02 / 100</td>
+    </tr>
+    <tr>
+      <th>SD Vidya School</th>
+      <td>2015-2016</td>
+    </tr>
+    <tr>
+      <td>10 CBSE</td>
+      <td>CGPA : 9.00  / 10 </td>
+    </tr>
+    </table>
   </l1>
   </ul>
 <br>
-<br>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
-    <br><br>
     
  <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaktiSingal&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
   

@@ -1,10 +1,9 @@
-### Hi 👋
+### <h3>Welcome to my Github Profile</h3>
 
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java and C </li>
   <li>🔭 I’m currently working on my portfolio.</li>
-  <li>🌱 I’m currently learning Full Stack Development and Google Cloud platform</li>
-  <li>😄 Pronouns: She/her</li>
+  <l1>Skills : <button>C</button><button>C++</button></l1>
   </ul>
 <br>
 <br>

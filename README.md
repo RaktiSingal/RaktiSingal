@@ -3,7 +3,21 @@
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java and C </li>
   <li>🔭 I’m currently working on my portfolio.</li>
-  <l1>Skills : <input type="submit" value="C"></l1>
+  <l1>Skills : <table border="0">
+    <tr>
+      <th>C</th>
+      <th>C++</th>
+      <th>Java</th>
+      <th>HTML</th>
+      <th>CSS</th>
+      <th>Javascript</th>
+      <th>SQL</th>
+      <th>Data Structures</th>
+      <th>DBMS</th>
+      <th>Google Cloud Platform</th>
+    </tr>
+    </table>
+    </l1>
   </ul>
 <br>
 <br>

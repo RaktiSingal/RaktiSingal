@@ -68,3 +68,8 @@
 
   </center>
   
+<style>
+  td,th
+  {
+  width:50%;
+  }

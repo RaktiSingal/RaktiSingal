@@ -31,6 +31,9 @@
       <td>CGPA : 9.49 / 10 </td>
     </tr>
     </div>
+    </table>
+    <br>
+    <table>
     <div>
     <tr>
       <th>Bhartiya Public School</th>
@@ -41,6 +44,9 @@
       <td>Percentage : 79.02 / 100</td>
     </tr>
     </div>
+    </table>
+    <br>
+    <table>
     <div>
     <tr>
       <th>SD Vidya School</th>

@@ -23,12 +23,12 @@
   <table>
     <div>
     <tr>
-      <th>Chitkara University</th>
-      <td>2018-2022</td>
+      <th width="400px">Chitkara University</th>
+      <td width="400px">2018-2022</td>
     </tr>
     <tr>
-      <td>BTech CSE</td>
-      <td>CGPA : 9.49 / 10 </td>
+      <td width="400px">BTech CSE</td>
+      <td width="400px">CGPA : 9.49 / 10 </td>
     </tr>
     </div>
     </table>

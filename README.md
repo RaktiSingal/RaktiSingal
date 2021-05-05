@@ -1,7 +1,7 @@
 ### <h1>Welcome to my Github Profile</h1>
 
 <ul list-style-type="none">
-  <li>💻I am an extremly hardworking person, always willing to learn new skills to build a professional career.</li>
+  <li>I am an extremly hardworking person, always willing to learn new skills to build a professional career.</li>
   <br>
   <l1> <h4>Skills:</h4> <table border="0">
     <tr>

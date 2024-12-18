@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td width="400px">BTech CSE</td>
-      <td width="400px" style="text-align:right">CGPA : 9.49 / 10 </td>
+      <td width="400px" style="text-align:right">CGPA : 9.63 / 10 </td>
     </tr>
     </div>
     </table>

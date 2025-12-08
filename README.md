@@ -61,10 +61,7 @@
   </l1>
   </ul>
 <br>
-    
- <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaktiSingal&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
-  
-  </div>
+
 <h3> Find me around the web 🌎:</h3>
 <center>
 <a href="https://www.linkedin.com/in/rakti-singal" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;

@@ -1,21 +1,20 @@
 ### <h1>Welcome to my Github Profile</h1>
 
 <ul list-style-type="none">
-  <li>I am an extremly hardworking person, always willing to learn new skills to build a professional career.</li>
+  <li>Software Engineer with 3+ years of experience in React, Redux, Angular, TypeScript, and NodeJS. Skilled in building scalable web apps, modernizing UI/UX. Proven experience in API integration, code migration, and performance optimization in Agile environments.</li>
   <br>
   <l1> <h4>Skills:</h4> <table border="0">
     <tr>
-      <th>C</th>
-      <th>C++</th>
-      <th>Java</th>
+      <th>React</th>
+      <th>Angular</th>
+      <th>AngularJs</th>
+      <th>Javascript</th>
+      <th>Redux</th>
+      <th>Typescript</th>
+      <th>Coffeescript</th>
       <th>HTML</th>
       <th>CSS</th>
-      <th>Javascript</th>
-      <th>SQL</th>
       <th>Data Structures</th>
-      <th>DBMS</th>
-      <th>OPPs</th>
-      <th>Google Cloud Platform</th>
     </tr>
     </table>
     </l1>

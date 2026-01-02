@@ -1,7 +1,7 @@
 ### <h1>Welcome to my Github Profile</h1>
 
 <ul list-style-type="none">
-  <li>Software Engineer with 3+ years of experience in React, Redux, Angular, TypeScript, and NodeJS. Skilled in building scalable web apps, modernizing UI/UX. Proven experience in API integration, code migration, and performance optimization in Agile environments.</li>
+  <li>Frontend Software Engineer with 3+ years of experience building scalable React and Angular applications for enterprise logistics and SaaS platforms. Expertise in component-based architecture, REST APIs, state management (Redux), and performance optimization in Agile environments.</li>
   <br>
   <l1> <h4>Skills:</h4> <table border="0">
     <tr>
